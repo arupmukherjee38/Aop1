@@ -17,7 +17,7 @@ public class Student {
 	
 	public void totalGDPA(int a ,int b) {
 		System.out.println(a+"-----"+b);
-		dailyWorkForLearing();
+		numberToget();
 	}
 	
 	public String welcome() {
