@@ -17,5 +17,11 @@ public class Student {
 	
 	public void totalGDPA(int a ,int b) {
 		System.out.println(a+"-----"+b);
+		System.out.println("Test arup");
+	}
+	
+	public String welcome() {
+		return "wellcome";
+		
 	}
 }
