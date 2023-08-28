@@ -18,6 +18,7 @@ public class App
         
         student.numberToget();
         student.totalGDPA(4,7);
+        //es
         
         Employee employee=applicationContext.getBean(Employee.class);
         employee.dailyWorkForEarning();
